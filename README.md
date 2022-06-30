@@ -13,7 +13,7 @@ Today I am a front end mobile flutter programmer, and researcher in the area of 
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmalaquias&layout=compact&theme=dark" width="410" heigth="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmalaquias&layout=compact&theme=dark" width="500" heigth="100"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pmalaquias&show_icons=true&theme=dark" width="500"/>
