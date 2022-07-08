@@ -7,9 +7,11 @@
 
 I am currently a Computer Science student👨🏽‍💻 and researcher 🔍 at the Federal University of Ouro Preto (UFOP).
 
-I'm a very curious person 👀, so I'm always looking for something new and I'm always learning.
+I'm a very curious person 👀, so I'm always looking for something new and I'm always learning, I have ADHD and with that I live in the world of the moon🚀🌙.
 
 Today I am a front end mobile flutter programmer, and researcher in the area of Augmented Reality and educational games.
+
+Disciple of Uncle Bob 🤓
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
